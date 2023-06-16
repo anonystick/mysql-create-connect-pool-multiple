@@ -9,4 +9,4 @@ Where "effective_spindle_count" is the number of storage disks. For a simple 4-c
 
 ## how to test
 
-pls view video
+pls view video on youtube...
